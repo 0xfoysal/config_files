@@ -1,0 +1,42 @@
+commit section
+space + c
+
+Edit -> e
+
+anything delete
+	press d
+
+Local branch section
+	- create a new brance : n
+
+public section
+	- file open : o
+	- edit : e
+
+keybinding location box
+file - 2
+branch - 3
+commit - 4
+stash - 5
+
+
+echo "# asdf" >> README.md -> type termianl echo "# asdf" >> README.md
+			   -> lagygit
+git init--------------------> i
+git add README.md-----------> a
+git commit -m "first commit"  c-> c
+git branch -M main -> 
+git remote add origin https://github.com/foysalcodeio/asdf.git -> 
+git push -u origin main -> p
+
+
+git reset option : shift+d
+
+commit good or bad ?
+	commit section 
+		press b
+
+branch reset
+	local branch
+		press g
+
